@@ -74,6 +74,8 @@ Under "Role" copy past the Data Access role from above click on "Save and Sync"
 
     - *Virtual Warehouse Creation*: Create one hive(xsmall) and one impala virtual warehouse for every 4 participants. Visit the link:https://docs.cloudera.com/data-warehouse/cloud/managing-warehouses/topics/dw-adding-new-virtual-warehouse.html[link] for more information
 
+    - *Data Viz Creation*: Create one dataviz instance. Add the workshop user group as an Admin while creating the data viz instance.
+
 == VALIDATE
 
 [.underline]
