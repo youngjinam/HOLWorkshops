@@ -12,5 +12,5 @@
 
    ```bash
    ssh 이멜아이디@3.35.211.158
-4. **버킷 이름
-   - han-workshop2-bucket/my-data
+4. **버킷 이름**
+   -  **han-workshop2-bucket/my-data**
