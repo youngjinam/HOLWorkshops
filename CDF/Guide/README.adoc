@@ -603,9 +603,9 @@ ____
 
 * Selection under Add Parameter : *_Add Parameter_*
 
-* Name : S3 Directory
+* Name : HDFS Directory
 
-* Value : LabData or TestDir
+* Value : s3a://han-workshop2-bucket/my-data/cdf/이멜아이디
 
 
 image:media/media/image138.png[media/media/image138,width=314,height=302]
